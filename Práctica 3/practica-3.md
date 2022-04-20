@@ -1,1 +1,1 @@
-
+En esa práctica se han completado los cuadernos de Jupyter previamente trabajados en el aula, dejando constancia de los diferentes pasos que han sido necesarios para realizar cada una de las operaciones y explicando las funciones que se han empleado. 
